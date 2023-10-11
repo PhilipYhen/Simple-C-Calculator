@@ -1,0 +1,14 @@
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.AssemblyInfoInputs.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.AssemblyInfo.cs
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\bin\Debug\net7.0\Simple C# Calculator.exe
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\bin\Debug\net7.0\Simple C# Calculator.deps.json
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\bin\Debug\net7.0\Simple C# Calculator.runtimeconfig.json
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\bin\Debug\net7.0\Simple C# Calculator.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\bin\Debug\net7.0\Simple C# Calculator.pdb
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\refint\Simple C# Calculator.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.pdb
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\Simple C# Calculator.genruntimeconfig.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# Calculator\obj\Debug\net7.0\ref\Simple C# Calculator.dll
